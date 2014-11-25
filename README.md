@@ -11,6 +11,6 @@ which can't be completely solved without brutal force
 (although this program can solve a huge amount of sudokus
 just using strategies).
 
-To run it just type 
-	java -jar sudoku.jar
-sudoku.jar file is in the lib directory 
+<h2>To run it just type</h2>
+<pre>	java -jar sudoku.jar</pre>
+<p>sudoku.jar file is in the lib directory</p> 
