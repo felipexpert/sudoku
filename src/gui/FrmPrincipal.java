@@ -80,7 +80,7 @@ public class FrmPrincipal extends JFrame {
 		menuLinguas = new JMenu();
 		menuBar.add(menuLinguas);
 		
-		menuItemPortugues = new JMenuItem("Portugu�s");
+		menuItemPortugues = new JMenuItem("Português");
 		menuItemPortugues.addActionListener(new MudaLingua());
 		menuLinguas.add(menuItemPortugues);
 		
