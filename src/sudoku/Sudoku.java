@@ -249,7 +249,7 @@ public class Sudoku {
 	
 	private boolean pertenceMesmaGrade(int iX, int iY) {
 		boolean retorno = false;
-		// pesquisar com carinho se o erro est· aqui
+		// pesquisar com carinho se o erro est√° aqui
 		int gradeXX = iX % modalidade.cGrade;
 		int gradeXY = (iX / modalidade.colunas) % modalidade.lGrade;
 		
